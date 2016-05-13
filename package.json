@@ -1,0 +1,29 @@
+{
+  "name": "ossman",
+  "version": "0.0.1",
+  "description": "CLI to bootstrap initial OSS Manifesto essential files",
+  "main": "lib/ossman.js",
+  "scripts": {
+    "test": "tap ./**.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/therebelrobot/ossman.git"
+  },
+  "keywords": [
+    "oss",
+    "ossman",
+    "oss",
+    "manifesto",
+    "manifesto",
+    "bootstrap",
+    "scaffold",
+    "documentation"
+  ],
+  "author": "Trent Oswald <trentoswald@therebelrobot.com> (@therebelrobot)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/therebelrobot/ossman/issues"
+  },
+  "homepage": "https://github.com/therebelrobot/ossman#readme"
+}
